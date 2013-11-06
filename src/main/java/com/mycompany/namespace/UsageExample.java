@@ -66,7 +66,7 @@ public class UsageExample {
             rd.close();
         }
         catch (Exception e) {
-            log.error("Error occur while connecting to blackbox", e);
+            log.error("Error occur while connecting to the service", e);
             throw e;
         }
         return beanExample;
