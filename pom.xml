@@ -5,19 +5,6 @@
     <groupId>com.mycompany.namespaces</groupId>
     <artifactId>namespace-filter</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <dependencies>
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.httpcomponents</groupId>
-            <artifactId>httpclient</artifactId>
-            <version>4.2.1</version>
-        </dependency>
-    </dependencies>
-
     <name>Namespace Filter</name>
     <packaging>jar</packaging>
 
